@@ -1,7 +1,4 @@
-# 🌿 Wild Cafe Ella
 
-![Wild Cafe](https://img.shields.io/badge/Status-Live-brightgreen)
-![GitHub Pages](https://img.shields.io/badge/Deployed-GitHub%20Pages-blue)
 
 ## About
 
@@ -36,11 +33,10 @@ and traditional rice & curry.
 
 ## Development Team
 
-Built by [Your Team Name] - 7 person team project
+Built by Ciigus Software - 7 person team project
 
 ## Contact
 
-📞 +94 702 028 637  
 📷 [@wildcafeella](https://instagram.com/wildcafeella)
 
 ---
