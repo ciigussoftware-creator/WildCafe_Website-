@@ -41,4 +41,4 @@ Built by Ciigus Software - 7 person team project
 
 ---
 
-© 2026 Wild Cafe. All rights reserved.
+© 2026 Ciigus Software. All rights reserved.
